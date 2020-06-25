@@ -1,0 +1,13 @@
+/*  estilos personalizados para o Card de informações */
+
+/* mobile first */
+@media (min-width: 769px) {
+  .card-info {
+    margin: 10px 3px 0px 0px;
+    max-width: 180px;
+  }
+}
+
+.card-info {
+  margin: 10px 3px 0px 0px;
+}
