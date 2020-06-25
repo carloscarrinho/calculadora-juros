@@ -15,4 +15,6 @@ de juros compostos.
 - Layout Responsivo;
 
 ## Resultado
-![]()
+![Resultado gif](https://github.com/carloscarrinho/calculadora-juros/blob/master/img/output.gif)
+![Resultado versão web](https://github.com/carloscarrinho/calculadora-juros/blob/master/img/output_web.png)
+![Resultado versão mobile](https://github.com/carloscarrinho/calculadora-juros/blob/master/img/output_responsive.png)
